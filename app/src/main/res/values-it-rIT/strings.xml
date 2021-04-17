@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicalStructureApp</string>
+    <string name="song_list">Canzoni</string>
+    <string name="song_title">Marilù</string>
+    <string name="song_artist">Achille Lauro</string>
+</resources>

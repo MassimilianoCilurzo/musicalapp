@@ -1,0 +1,9 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">MusicalStructureApp</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="song_list">Song List</string>
+    <string name="song_title">Marilù</string>
+    <string name="song_artist">Achille Lauro</string>
+</resources>
